@@ -1,0 +1,30 @@
+.gitignore
+  s_a59b569e1d9adc::t_b3da9ba248cf2e 1-2
+output/ai-sharing-style-outline-review-v1.html
+  s_08427bb185d3ad::t_2502914b5be5b9 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "1ea5aea4c6e2c02c177a76f5726af30b7a47c644",
+  "prompts": {},
+  "logical_commit_id": "1ea5aea4c6e2c02c177a76f5726af30b7a47c644",
+  "sessions": {
+    "s_08427bb185d3ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12466-109d-79c3-8571-133ace19ce62",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "guanjianzhe <guanjianzhe@bigo.sg>"
+    },
+    "s_a59b569e1d9adc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1335c-24cb-7013-98df-82d37ae77509",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "guanjianzhe <guanjianzhe@bigo.sg>"
+    }
+  }
+}
